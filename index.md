@@ -1,12 +1,12 @@
 # Welcome to Allison Ngo's Page
 
-![Test](self.jpg)
-
 [LinkedIn](https://www.linkedin.com/in/allison-ngo-2966061b3/)
 
 [GitHub](https://github.com/aln017)
 
-### About Me
+[Click this for a smile](doggo.jpg)
+
+## About Me
 
 I am currently a 2nd year Computer Science student at UCSD. I have aspirations to become a programmer or software developer.
 
@@ -20,11 +20,35 @@ John F. Kennedy once said:
 
 Therefore we must be willing to make mistakes before we can make great achievements.
 
-### Completed Projects
+## Skills
+
+- C++
+- Java
+- Python
+- HTML
+- LaTex
+- MATLAB
+
+### [Completed Projects](https://devpost.com/software/gradescope-calendar)
 
 1. GradeScope Scheduler
    - Scrapes due dates and assignment names from current classes on Gradescope and connects to Google Calendar to add them as events
    - Group project for SD Hacks hackathon
+
+Here is a snippet of our use of the Google API:
+
+```
+SCOPES = ['https://www.googleapis.com/auth/calendar']
+
+def access():
+    creds = None;
+
+    if os.path.exists('token.pkl'):
+        with open('token.pkl', 'rb') as token:
+            creds = pickle.load(token)
+```
+
+
 2. BitCoin Tracker
    - Script to scrape bitcoin prices every 5 minutes and record data (date, time, price, percent increase) in a csv file
 
@@ -37,31 +61,11 @@ Therefore we must be willing to make mistakes before we can make great achieveme
 3. Proper Waste Disposal Helper
    - User inputs an item (electronics, perfumes, microplastics) and app offers nearby locations to properly/safely dispose of certain items
 
+### Extra
 
-```markdown
-Syntax highlighted code block
+***I like happy doggos!***
 
-# Header 1
-## Header 2
-### Header 3
+![](doggo2.jpg)
+![](doggo3.jpg)
+![](doggo4.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aln017/aln017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
