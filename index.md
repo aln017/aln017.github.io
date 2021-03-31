@@ -1,12 +1,42 @@
-## Welcome to GitHub Pages
+# Welcome to Allison Ngo's Page
 
-You can use the [editor on GitHub](https://github.com/aln017/aln017.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Test](self.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://www.linkedin.com/in/allison-ngo-2966061b3/)
 
-### Markdown
+[GitHub](https://github.com/aln017)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
+
+I am currently a 2nd year Computer Science student at UCSD. I have aspirations to become a programmer or software developer.
+
+**My current favorite programming language is C++.**
+
+*I would like to learn JavaScript in the near future.*
+
+John F. Kennedy once said:
+
+> Those who dare to fail miserably can achieve greatly.
+
+Therefore we must be willing to make mistakes before we can make great achievements.
+
+### Completed Projects
+
+1. GradeScope Scheduler
+   - Scrapes due dates and assignment names from current classes on Gradescope and connects to Google Calendar to add them as events
+   - Group project for SD Hacks hackathon
+2. BitCoin Tracker
+   - Script to scrape bitcoin prices every 5 minutes and record data (date, time, price, percent increase) in a csv file
+
+### Future Project Ideas
+
+1. Canvas to Notion Assignment Scheduler
+   - Connect Canvas to Notion and use assignment data on Canvas to create reminders on Notion
+2. Food Delivery Services Comparison App
+   - Compares the cost of food delivery across different services and offers the most ideal
+3. Proper Waste Disposal Helper
+   - User inputs an item (electronics, perfumes, microplastics) and app offers nearby locations to properly/safely dispose of certain items
+
 
 ```markdown
 Syntax highlighted code block
